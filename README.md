@@ -1,9 +1,10 @@
 <h2>Hey 👋, I'm Andy</h2>
-<p>I'm currently a Backend Software Engineer at <strong><a href="https://www.cuvva.com">Cuvva</a></strong> based in London, UK.
+<p>I'm currently a Lead Backend Engineer at <strong><a href="https://www.cuvva.com">Cuvva</a></strong> based in London, UK.
 
 <img src="https://img.shields.io/badge/%F0%9F%90%A0-SwiftPush-green?style=flat-square"></img>
 
 <h2>Some Tech I Use</h2>
+<p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="25" height="25" />
@@ -19,3 +20,4 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firefox/firefox-original.svg" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="25" height="25" />
+</p>
